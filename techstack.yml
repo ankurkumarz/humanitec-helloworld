@@ -1,7 +1,8 @@
 repo_name: ankurkumarz/humanitec-helloworld
 report_id: a334c09ff91d0f287d24f2a7e24c2ccf
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T15:16:30+00:00'
+timestamp: '2024-01-05T08:24:31+00:00'
 requested_by: ankurkumarz
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ankurkumarz/humanitec-helloworld
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ankurkumarz/humanitec-helloworld
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ankurkumarz/humanitec-helloworld/blob/main/.github/workflows/blank.yml
   detection_source: ".github/workflows/blank.yml"
   last_updated_by: Ankur Kumar
   last_updated_on: 2023-06-08 20:14:45.000000000 Z
